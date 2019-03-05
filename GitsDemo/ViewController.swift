@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
        print(message)
         print("hello")
+        lbl_name.text = "Hello"
         // Do any additional setup after loading the view, typically from a nib.
     }
 
