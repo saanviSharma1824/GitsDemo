@@ -9,7 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    @IBOutlet weak var lbl_name: UILabel!
+    
      let message = "Hello Git!"
     
     override func viewDidLoad() {
