@@ -12,7 +12,7 @@ class BViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("B File")
+        print("B File Second")
         // Do any additional setup after loading the view.
     }
     
