@@ -12,7 +12,7 @@ class BranchViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        print("Master Branch")
         // Do any additional setup after loading the view.
     }
     
