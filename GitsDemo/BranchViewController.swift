@@ -12,7 +12,7 @@ class BranchViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        print("A User Made Changes")
         // Do any additional setup after loading the view.
     }
     
